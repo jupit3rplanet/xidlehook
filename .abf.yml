@@ -1,4 +1,4 @@
 sources:
-  xidlehook-0.10.0.tar.gz: 78fb38f212fa49029aff24c669a39648d9b4e68b
+  xidlehook-0.10.0.tar.gz: 7b8cf07830238662268fefdefa7be74f13dbea4b
   xidlehook-0.10.0-vendored-dependencies.tar.xz: ee25650174faed8c9d94a4ccb5f4d1c3eb0118f7
   cargo_config: 0cd939edd1ba52caa92a74bd65ea41af893f073e
