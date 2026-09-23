@@ -5,7 +5,7 @@ Release:        1
 Summary:        Xautolock rewrite in Rust, with a few extra features
 License:        MIT
 URL:            https://github.com/jD91mZM2/xidlehook
-Source0:        %{url}/archive/refs/tags/%{version}/%{name}-%{version}.tar.gz
+Source0:        %{url}/archive/refs/tags/%{version}.tar.gz
 Source1:        %{name}-%{version}-vendored-dependencies.tar.xz
 Source2:        cargo_config
 
